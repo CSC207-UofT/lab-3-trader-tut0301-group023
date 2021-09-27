@@ -10,11 +10,12 @@ public class CowTest {
     }
 
     @Test
-    public void getPrice() {
+    public void TestGetPrice() {
+        assertEquals(7, c.getPrice());
     }
 
     @Test
-    public void sound() {
+    public void TestSound() {
         assertEquals("Moo", c.sound());
     }
 }

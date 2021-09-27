@@ -1,5 +1,10 @@
 public class Cow implements Tradable, Domesticatable{
 
+    /**
+     * Return the price of the cow.
+     *
+     * @return the price.
+     */
     @Override
     public int getPrice() {
         return 7;
