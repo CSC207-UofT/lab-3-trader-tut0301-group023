@@ -47,7 +47,7 @@ public class Car implements Tradable, Drivable{
     /**
      * Return the maximum speed of the car
      *
-     * @return  the maximum speed of the car
+     * @return  The maximum speed of the car
      */
     @Override
     public int getMaxSpeed() {
