@@ -1,5 +1,5 @@
 /*
- * This file contains sample JUnit test cases for Horse.java
+ * This file contains sample JUnit test cases for Truck.java
  * You should NOT modify this file!
  */
 
