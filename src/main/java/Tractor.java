@@ -1,5 +1,5 @@
 public class Tractor implements Drivable, Tradable{
-    private double maxSpeed;
+    private int maxSpeed;
 
     public Tractor() { this.maxSpeed = 100;}
 
